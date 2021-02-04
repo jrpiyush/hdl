@@ -1,6 +1,6 @@
 
 
-source $ad_hdl_dir/projects/scripts/adi_pd_intel.tcl
+source $ad_hdl_dir/projects/scripts/adi_pd.tcl
 source $ad_hdl_dir/projects/common/a10soc/a10soc_system_qsys.tcl
 
 # Instances and instance parameters
